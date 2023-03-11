@@ -44,3 +44,7 @@ pollster.
 - The votes recorded on the identity details MUST be secret, and the counting of votes is done from the polls
 itself once the votes have been read.
 
+## Youtube link:
+
+https://www.youtube.com/watch?v=rkwIHKtn5AE
+
